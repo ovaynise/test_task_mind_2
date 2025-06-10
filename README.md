@@ -1,1 +1,0 @@
-# test_task_mind_2
